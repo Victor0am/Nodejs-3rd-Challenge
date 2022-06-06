@@ -38,7 +38,7 @@ A rota deve retornar uma lista contendo todos os repositórios cadastrados.
 
 - **Should be able to list the projects**
 
-  Para que esse teste passe, é necessário que você conclua o teste anterior. Se tudo ocorreu bem, os repositórios cadastrados deverão aparecerem na listagem da rota **GET** `/repositories` e esse teste irá passar.
+  Para que esse teste passe, é necessário que você conclua o teste `Should be able to create a new repository`. Se tudo ocorreu bem, os repositórios cadastrados deverão aparecerem na listagem da rota **GET** `/repositories` e esse teste irá passar.
 
 ### POST `/repositories`
 
